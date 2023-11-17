@@ -36,7 +36,10 @@ class personaje():
             print("la vida de", enemigo.nombre, "es", enemigo.vida )
         else:
             enemigo.morir()
-            .
+    
+    def pepino():
+        pass
+    .
     
         
 
